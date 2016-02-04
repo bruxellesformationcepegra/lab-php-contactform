@@ -1,0 +1,21 @@
+ h1 {
+        font-family:'Rouge Script', cursive;
+        color:deeppink;
+        font-size: 60px;
+        margin-bottom: 40px;
+    }
+    body {
+        margin: 5px;
+    }
+    
+    .contact{
+            width: 500px;
+            height: 500px;
+            margin: auto;
+            position: absolute;
+            top: 0; left: 0; bottom: 0; right: 0;
+        }
+
+    .error {
+        color: red
+    }
